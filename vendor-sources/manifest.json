@@ -1,0 +1,20 @@
+[
+  {
+    "name": "heic-to-1.6.6-source.tar.gz",
+    "url": "https://codeload.github.com/hoppergee/heic-to/tar.gz/4045b8d7607e326c2b479cc424c7a60519b42dae",
+    "bytes": 6282641,
+    "sha256": "13445ce6c93aeaeb7280e3794731081b7c8866e1b5a39bc63b900cf68444e09d"
+  },
+  {
+    "name": "libheif-1.23.6-source.tar.gz",
+    "url": "https://codeload.github.com/strukturag/libheif/tar.gz/refs/tags/v1.23.6",
+    "bytes": 2311710,
+    "sha256": "c9a00b0452f5c16d72ef71e5e40c0e90fbe2ad37148d27a1b2f9bb21546f5f03"
+  },
+  {
+    "name": "libde265-1.0.16-source.tar.gz",
+    "url": "https://codeload.github.com/strukturag/libde265/tar.gz/refs/tags/v1.0.16",
+    "bytes": 439639,
+    "sha256": "ed12c931759c1575848832f70db5071a001ac813db4e4f568ee08aef6e234d4e"
+  }
+]
