@@ -1,4 +1,4 @@
-Third-party software used by 生活拾记 0.2.1
+Third-party software used by 生活拾记 0.2.2
 Generated from the pinned package-lock.json.
 
 ======================================================================
